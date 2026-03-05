@@ -1,3 +1,4 @@
+#MODELAGEM DE BARCO ROBÓTICO EM AMBIENTE DE SIMULAÇÃO
 - SITUAÇÃO: No âmbito da robótica simulações são uma ferramenta de extrema importância para a validação de algoritmos sem a necessidade do possível gasto com materiais em um teste empírico. Isso, de tal modo que o projeto de barco robótico que coordeno na SBC RAS UFC ainda não possuía um modelo em simulador.
 - OBJETIVO: 
 Desenvolver o modelo de um barco robótico no ambiente CoppeliaSim afim de possibilitar o teste de algortimos de controle a serem aplicados na navegação do barco.
