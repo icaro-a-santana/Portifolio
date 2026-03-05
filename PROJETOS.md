@@ -3,8 +3,8 @@
 - OBJETIVO: Desenvolver o modelo de um barco robótico no ambiente CoppeliaSim afim de possibilitar o teste de algortimos de controle a serem aplicados na navegação do barco.
 - METODOLOGIA: Confecção de Modelo 3d da estrutura do robô via SolidEdge, importação do modelo para o ambiente de simulação CoppeliaSim, simulação da flutuação, viscosidade, coleta de dados de posição, velocidade, aceleração lineares, e velocidade angular, e entradas de controle para duas turbinas tudo via linguagem Lua(Linguagem Nativa do Simulador), utilização de API para troca de dados entre simulação no ambiente CoppeliaSim e controlador externo programado em Python.
 - RESULTADO: (A preencher)
-<video src="https://drive.google.com/file/d/1ODFnFTtfJVJeVAuWh2auNc54MIKTufQ3/view?usp=sharing" controls="controls" style="max-width: 100%;"></video>
 
+Uploading AUTONOMOUS SHIP SIMULATION.mp4…
 
 # PROJETO DE SPDA
 - SITUAÇÃO: Um cliente de grande porte foi vistoriado por um orgão regulamentador, e lhe foi dado um prazo para fornecer o projeto de SPDA, caso contrário as instalações do cliente seriam iterditadas e a produção paralisada. 
