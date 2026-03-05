@@ -10,7 +10,7 @@
 - METODOLOGÍA: Levantamento de dados da instalação em campo, realização de análise de risco e comparativo com infraestrutura necessária conforme NBR-5419, emissão de memorial descritivo e de cálculo referentes ao projeto de readequação juntamente à planta elétrica da infraestrutura instalada(AsBuilt),e da adequação necessária.
 - RESULTADO: (A preencher)
 
-# Automação de Processo com Excel
+# AUTOMAÇÃO DE PROCESSO COM EXCEL
 - SITUAÇÃO: Um dado processo no local de trabalho exigia muita carga cognitiva e tempo para ser executado, este em ambiente Excell.
 - OBJETIVO: Utilizar os recursos do Microsoft Excell, isso é, o Visual Basics for Aplications(VBA), para reduzir o trabalho despendido com esse processo.
 - METODOLOGÍA: Mapeamento do processo, este, consistindo no processamento de dados coletados por um equipamento, com amostragem na escala de dezenas de segundos, dividindo-o em blocos de subprocessos repetitivos, e fazendo o uso de laços de repetição dentro da estrutura do código para automatização do processo.
