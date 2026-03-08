@@ -17,3 +17,9 @@ https://github.com/user-attachments/assets/f16bb3b1-4629-4618-966a-aee199a4778b
 - OBJETIVO: Utilizar os recursos do Microsoft Excell, isso é, o Visual Basics for Aplications(VBA), para reduzir o trabalho despendido com esse processo.
 - METODOLOGÍA: Mapeamento do processo, este, consistindo no processamento de dados coletados por um equipamento, com amostragem na escala de dezenas de segundos, dividindo-o em blocos de subprocessos repetitivos, e fazendo o uso de laços de repetição dentro da estrutura do código para automatização do processo.
 - RESULTADO: Diminuição do tempo necessário apra execução de 2 horas a 3 horas para menos de 10 segundos.
+
+# MINICURSO DE AUTOCAD
+- SITUAÇÃO: No início de um semestre letivo, meu projeto de extensão necessitava de conseguir pessoas para o nosso novo processo seletivo, e o projeto ao qual coordeno necessitava de fundos para a continuidade das atividades.
+- OBJETIVO: Promover um minicurso de habilidade demandada pelo merdado, sobretudo nas engenharias, levantando fundos para a execução de demais atividades de um projeto de robótica e divulgando o projeto de extensão como um todo.
+- METODOLOGIA:
+- RESULTADO:
