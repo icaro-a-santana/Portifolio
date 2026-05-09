@@ -1,5 +1,5 @@
 # DESCRIÇÃO  
-Esse repositório é meu portifólio, e tem o objetivo de documetar meus projetos de forma fornecer prova social de minhas experiêncas profissionais, de mercado, ou acadêmicas, expondo a possíveis avaliadores, códigos, vídeos, imagens, planilhas, e documentos, que comprovem a veracidade de minhas habilidades e competências.
+Esse repositório é meu portifólio, e tem o objetivo de documetar meus projetos detalhando a metodologia aplicada com o intuito de mostrar meus trabalhos.
 
 # ESTRUTURA
 Os projetos são estruturados do seguinte modo:
